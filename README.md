@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" width="300"/>
-  <h1>Hey there!</h1>
+  <h1>Hey there! I'm Jenny </h1>
 </div>
