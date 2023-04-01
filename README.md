@@ -23,6 +23,6 @@ Here are some ideas to get you started:
 <div>
   <h3>I'm currently on RoboCup team where we build robots to play soccer and compete in the SSL Cup. </h3>
   <h3>I'm working as a tutor for CSE Department at UCSD. </h3>
-  <h2>You can also take a look at all of my project (both team and personal) that is pinned below. </h2>
+  <h3>You can also take a look at all of my project (both team and personal) that is pinned below. </h3>
   
 </div>
